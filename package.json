@@ -1,0 +1,22 @@
+{
+  "name": "tarea-3",
+  "version": "1.0.0",
+  "description": "Git flow homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDVelasquezO/AYD1_T3.git"
+  },
+  "author": "JDVelasquezO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDVelasquezO/AYD1_T3/issues"
+  },
+  "homepage": "https://github.com/JDVelasquezO/AYD1_T3#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
